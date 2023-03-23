@@ -25,7 +25,7 @@ WHERE
 	InvoiceDate >= '2011-01-01' AND InvoiceDate <= '2012-12-31'
 	
 	
--- 3. Get a list of customers whoe made a purchase between 2011 and 2012.
+-- 3. Get a list of customers who made a purchase between 2011 and 2012.
 
 SELECT 
 	c.FirstName,
